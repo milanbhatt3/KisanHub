@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/instruction_text" />
+
+    <Button
+        android:id="@+id/download_uk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/uk_text"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/download_england"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/england_text"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/download_wales"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/wales_text"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/download_scotland"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/scotland_text"
+        android:layout_marginTop="10dp" />
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KisanHubDemo</string>
+
+    <string name="instruction_text">Please click on below countries to download data</string>
+    <string name="uk_text">UK</string>
+    <string name="england_text">England</string>
+    <string name="wales_text">Wales</string>
+    <string name="scotland_text">Scotland</string>
+    <string name="permission_alert_title">Request for permission</string>
+    <string name="permission_alert_description">Please give permission for external storage to store files</string>
+    <string name="permission_alert_geolocation_description">Please give permission for location to display map</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="min_temp">Min Temp"</string>
+    <string name="mean_temp">Mean Temp</string>
+    <string name="sunshine_temp">Sunshine</string>
+    <string name="rainfall_temp">Rainfall</string>
+    <string name="winter">Winter</string>
+    <string name="spring">Spring</string>
+    <string name="summer">Summer</string>
+    <string name="autumn">Autumn</string>
+    <string name="annual">Annual</string>
+    <string name="button_download">Download %1$s data</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="tmax">Tmax</string>
+    <string name="tmin">Tmin</string>
+    <string name="tmean">Tmean</string>
+</resources>
